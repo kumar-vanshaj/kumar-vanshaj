@@ -1,87 +1,87 @@
-# Hi 👋 I'm Kumar Vanshaj
+<h1 align="center">Kumar Vanshaj</h1>
 
-### Computer Science Undergraduate | Flutter | Backend | ML | AWS
+<p align="center">
+  <b>Computer Science Undergraduate • Backend • Flutter • Machine Learning • AWS</b>
+</p>
 
-* 🎓 B.Tech CSE at VIT Bhopal (Expected 2026)
-* 💻 Interested in Backend Systems, App Development, and Applied ML
-* 🚀 Building practical systems with Flask, Flutter, AWS, and ML pipelines
-* 📫 Reach me: **[kumarvanshaj180@gmail.com](mailto:kumarvanshaj180@gmail.com)**
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-Python | Java | Dart | SQL
-
-### Frameworks & Libraries
-
-Flask | Flutter | TensorFlow | scikit-learn
-
-### Cloud & Tools
-
-AWS (EC2, S3, Lambda, Route53) | Git | GitHub | PostgreSQL | SQLite
-
-### Core Concepts
-
-DSA | OOP | REST APIs | DBMS | OS | Agile
+<p align="center">
+  Building practical systems with scalable backend logic, cloud deployment, and applied ML
+</p>
 
 ---
 
-## 📌 Featured Projects
+## About Me
 
-### 🔹 SafeSurf
+* 🎓 B.Tech in Computer Science — VIT Bhopal (2026)
+* ⚙️ Interested in backend engineering, cloud systems, and ML integration
+* 📌 Focused on real-world product building
+* 🧠 Solved 250+ DSA problems
 
-NLP-powered content filtering and activity monitoring platform.
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,flask,tensorflow,aws,postgresql,sqlite,git,github" />
+</p>
+
+---
+
+## Featured Projects
+
+### SafeSurf
+
+AI-powered content filtering and monitoring platform
 
 * Flutter app + browser extension prototype
 * Flask backend with JWT authentication
-* SVM + Random Forest content classification
-* Real-time sync using Socket.IO
-
-🔗 Repo: YOUR_SAFESURF_LINK
+* NLP filtering using SVM + Random Forest
+* Real-time event sync via Socket.IO
 
 ---
 
-### 🔹 Cloud Harbour
+### Cloud Harbour
 
-AWS high-availability simulation project.
+AWS high-availability infrastructure simulation
 
 * EC2 + S3 + Lambda + Route53
-* Automated health checks
-* DNS failover simulation
-
-🔗 Repo: YOUR_CLOUDHARBOUR_LINK
+* Health-check automation
+* DNS failover workflow
 
 ---
 
-### 🔹 Uroflowmetry ML System
+### Uroflowmetry Analytics System
 
-Medical sensor analytics pipeline.
+Medical sensor data pipeline
 
-* Flask backend for real-time sensor ingestion
-* Flow-rate analytics
-* Feature extraction + ML classification
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kumar-vanshaj\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-vanshaj\&layout=compact)
+* Real-time sensor ingestion
+* Flow-rate analysis
+* ML-based classification pipeline
 
 ---
 
-## 🔥 Problem Solving
+## GitHub Analytics
 
-* Solved 250+ DSA problems
-* Active in algorithmic problem solving
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumar-vanshaj&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-vanshaj&layout=compact" />
+</p>
 
 ---
 
-## 🌐 Connect
+## Current Focus
 
-* LinkedIn: linkedin.com/in/kumarvanshaj
-* GitHub: github.com/kumar-vanshaj
+* Backend architecture
+* System design fundamentals
+* Production-ready project building
+
+---
+
+## Connect
+
+* 📧 [kumarvanshaj180@gmail.com](mailto:kumarvanshaj180@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/kumarvanshaj
+* 🔗 GitHub: github.com/kumar-vanshaj
