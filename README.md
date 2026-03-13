@@ -37,6 +37,7 @@ AI-powered content filtering and monitoring platform
 * Flask backend with JWT authentication
 * NLP filtering using SVM + Random Forest
 * Real-time event sync via Socket.IO
+* Link: https://addons.mozilla.org/addon/safesurf_parentalcontrol/
 
 ---
 
