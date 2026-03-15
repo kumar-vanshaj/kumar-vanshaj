@@ -51,12 +51,12 @@ AWS high-availability infrastructure simulation
 
 ---
 
-### Uroflowmetry Analytics System
+### MedMa: Disease Detection
 
 Medical sensor data pipeline
 
 * Real-time sensor ingestion
-* Flow-rate analysis
+* Symptom based detection
 * ML-based classification pipeline
 
 ---
