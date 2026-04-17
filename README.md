@@ -13,9 +13,9 @@
 ## About Me
 
 * 🎓 B.Tech in Computer Science — VIT Bhopal (2026)
-* ⚙️ Interested in backend engineering, cloud systems, and ML integration
-* 📌 Focused on real-world product building
-* 🧠 Solved 250+ DSA problems
+*  Interested in backend engineering, cloud systems, and ML integration
+*  Focused on real-world product building
+*  Solved 250+ DSA problems
 
 ---
 
