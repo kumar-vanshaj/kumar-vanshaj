@@ -72,5 +72,5 @@ Medical sensor data pipeline
 ## Connect
 
 * 📧 [kumarvanshaj180@gmail.com](mailto:kumarvanshaj180@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/kumarvanshaj
+* 💼 LinkedIn: https://www.linkedin.com/in/kumar-vansh-aj/
 * 🔗 GitHub: github.com/kumar-vanshaj
