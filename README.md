@@ -59,19 +59,7 @@ Medical sensor data pipeline
 * Symptom based detection
 * ML-based classification pipeline
 
----
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-vanshaj&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-vanshaj&layout=compact" />
-</p>
-
----
 
 ## Current Focus
 
