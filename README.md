@@ -1,7 +1,7 @@
 <h1 align="center">Kumar Vanshaj</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate • Backend • Flutter • Machine Learning • AWS</b>
+  <b>Computer Science Undergraduate • Backend • Machine Learning • AWS</b>
 </p>
 
 <p align="center">
